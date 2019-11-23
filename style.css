@@ -1,0 +1,13 @@
+header {
+    color: var(--pink);
+  }
+  
+  .pink, .pink:visited {
+    background-color: var(--pink);
+    border: 1px solid var(--pink);
+  }
+  
+  .pink:hover, .pink:focus, .pink:active {
+    background-color: var(--purple);
+      border: 1px solid var(--purple);
+  }
