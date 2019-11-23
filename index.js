@@ -1,4 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
